@@ -1,2 +1,4 @@
 # Accounting-python
-Just a test program in python, creating a username and password file to create an account.
+Account system class, basically for making usernames and password. Password encryption is about to be added, dont worry.
+
+You can use this repo in your repos btw, just credit me if you want.
