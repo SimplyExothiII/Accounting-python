@@ -43,7 +43,6 @@ elif os.path.isfile("username.txt") == False and os.path.isfile("password.txt") 
     print("Username created.")
     f.close()
 else:
-
     Accountnew = Account(input("Insert username: "), input("Insert password: "))
 
     f = open("username.txt", "w")
